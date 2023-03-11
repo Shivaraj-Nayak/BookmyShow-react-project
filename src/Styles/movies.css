@@ -1,0 +1,60 @@
+.movies {
+    background-color: lightyellow;
+    /* background-size: auto; */
+}
+
+.title {
+    padding: 0px 64px;
+}
+
+.moviesData {
+    background-color: gainsboro;
+    margin: 15px 64px;
+    padding: 10px;
+}
+
+.moviesData:hover {
+    background-color: black;
+    color: white;
+}
+
+.moviesData button {
+    border: none;
+    padding: 6px 18px;
+    border-radius: 8px;
+    background-color: white;
+
+    /* USED TO POINT TO SPECIFI BUTTON(hand symbol pointing to buttob) */
+    cursor: pointer;
+}
+
+.underline {
+    height: 10px;
+    width: 200px;
+    background-color: black;
+    margin: 0px 64px;
+}
+
+
+.img2 {
+    border-radius: 50%;
+}
+
+.cc img {
+    /* display: flex; */
+    border-radius: 50%;
+    /* justify-content: space-between; */
+    padding: 10px;
+}
+
+/* .cc{
+    
+    margin: 0px 64px;
+    justify-content: center; 
+    
+} */
+.celebrity {
+    display: flex;
+    margin: 0px 64px;
+text-align: center;
+}

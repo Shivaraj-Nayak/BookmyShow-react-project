@@ -1,0 +1,12 @@
+.forms{
+    display: flex;
+    justify-content:space-evenly;
+
+    
+}
+
+.forms label{
+    margin: 20px;
+    padding: 20px;
+    
+}

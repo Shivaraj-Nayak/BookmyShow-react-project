@@ -1,0 +1,78 @@
+{
+  "movies": [
+    {
+      "title": "Mirzapur",
+      "genre": "Drama",
+      "rating": "3.5",
+      "language": "Hindi",
+      "id": 1
+    },
+    {
+      "title": "Breaking Bad",
+      "genre": "Action",
+      "rating": "4.5",
+      "language": "English",
+      "id": 2
+    },
+    {
+      "title": "Dark",
+      "genre": "Sci-fi",
+      "rating": "4.5",
+      "language": "German",
+      "id": 3
+    },
+    {
+      "title": "Peaky Blinders",
+      "genre": "Drama",
+      "rating": "5",
+      "language": "English",
+      "id": 4
+    },
+    {
+      "title": "Family Man",
+      "genre": "Thriller",
+      "rating": "4",
+      "language": "Hindi",
+      "id": 5
+    },
+    {
+      "title": "KGF",
+      "genre": "ACTION",
+      "rating": "10",
+      "language": "Kannada",
+      "id": 6
+    },
+    {
+      "title": "KGF 2",
+      "genre": "Drama",
+      "rating": "10",
+      "language": "Kannada",
+      "id": 7
+    },
+    {
+      "title": "bhahubali",
+      "genre": "drama",
+      "rating": "9",
+      "language": "t",
+      "id": 8
+    }
+  ],
+  "celeb": [
+    {
+      "image": "/images/yash.webp",
+      "name": "Rocking Star"
+    },
+    {
+      "image": "/images/dq.jpg",
+      "name": "Dulquer Salmaan"
+    },
+    {
+      "image": "/images/harsh.jpg",
+      "name": "Harshvardhan Rane"
+    },
+    {
+      "image": "/images/murphy.webp",
+      "name": "Cillian Murphy"
+    }
+  ]
+}
